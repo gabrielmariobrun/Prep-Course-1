@@ -1,0 +1,21 @@
+<style>
+h1{
+    color: grey;
+ }
+  img{
+    width: 550px;
+   /* top: 50px;arriva
+    right: 50px;derecha
+    bottom: 50px;avajo
+    left: 50px;izquierda*/
+  }
+  #thirdDiv{
+     height:500px ;
+     width:700px ;
+     background-color:brown; 
+     padding:150px ;  
+     border:400px; color: blue;
+  }#spanid{
+    font-size:18px;
+    margin: 100px;color: rgb(108, 216, 20);
+  }</style>
